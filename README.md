@@ -22,5 +22,5 @@ Nothing at the moment!
 
 As I have moved the idea of my "clubhouse" to kingdra.net, the clubhouse portion of my library is no longer active. 
 
-![archived: aroceu's library: clubhouse](archived-clubhouse1.png)
-![archived: aroceu's library: clubhouse, bototm of page](archived-clubhouse2.png)
+![archived: aroceu's library: clubhouse](screenshots/archived-clubhouse1.png)
+![archived: aroceu's library: clubhouse, bototm of page](screenshots/archived-clubhouse2.png)

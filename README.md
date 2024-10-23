@@ -11,3 +11,16 @@ This one's up too! I'll also be pushing updates through here.
 # to-do
 
 Nothing at the moment!
+
+# gallery
+![aroceu's library: main page](lib.png)
+![aroceu's library: list page](list.png)
+![aroceu's library: fav page](fav.png)
+![aroceu's library: log page](log.png)
+
+# archive
+
+As I have moved the idea of my "clubhouse" to kingdra.net, the clubhouse portion of my library is no longer active. 
+
+![archived: aroceu's library: clubhouse](archived-clubhouse1.png)
+![archived: aroceu's library: clubhouse, bototm of page](archived-clubhouse2.png)

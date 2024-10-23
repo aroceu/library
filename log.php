@@ -42,8 +42,7 @@
 
 				<div class="box">
 				<ul>
-				    <li><b><em>Made in Korea</em></b>: The K-Pop Experience
-</li>
+				    
 				    <li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
 					<li>idk about books but like, all of them</li>
 				</ul>

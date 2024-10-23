@@ -13,10 +13,10 @@ This one's up too! I'll also be pushing updates through here.
 Nothing at the moment!
 
 # gallery
-![aroceu's library: main page](lib.png)
-![aroceu's library: list page](list.png)
-![aroceu's library: fav page](fav.png)
-![aroceu's library: log page](log.png)
+![aroceu's library: main page](screenshots/lib.png)
+![aroceu's library: list page](screenshots/list.png)
+![aroceu's library: fav page](screenshots/fav.png)
+![aroceu's library: log page](screenshots/log.png)
 
 # archive
 

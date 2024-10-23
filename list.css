@@ -1,0 +1,205 @@
+:root{
+	--background: url('img/bglist.png') #BD6A53 repeat-x top fixed;
+	--container-border: #2D0749;
+	--container-bg:url('img/bglistcontainer.png') #FED99E repeat-x top fixed;
+	--h1: #512251;
+	--hover-color: #D16392;
+	--navigation-link: #2D0749;
+	--h3: #2D0749;
+	--main-color: #2D0749; 
+	--text: #2D0749;
+	--footer-text: #512251;
+	--blurb-text: #2D0749;
+}
+
+#blurb{
+    font: normal 0.47em / 140% 'Inconsolata'!important;
+    padding: 1em 3em 0.5em!important;
+}
+
+.list{
+	font: normal 0.45em/120% 'Inconsolata';
+	text-align: left;
+	padding: 10px;
+}
+
+h2{
+	color: #FED597;
+	font: normal 3.2em 'Rochester';
+	text-shadow: 0.07em 0.07em 0 #632F53;
+	text-transform: lowercase;
+	text-align: center;
+	margin: 0.5em 0 1em 0;
+    border-bottom: 5px dotted #F49985;
+    line-height: 1px;
+    padding: 0 0 10px;
+}
+
+h4{
+	font: normal 1.7em 'Inconsolata', serif;
+	text-transform: uppercase;
+	color: #FAAE61;
+	text-shadow: 0.1em 0.1em 0 #2D0749;
+	display: inline-block;
+	width: auto;
+	padding: 10px;
+	font-weight: bold;
+	box-shadow: 0em 0.3em 0 #E57D87;
+	line-height:0;
+	margin: 20px 0;
+}
+
+.footer{
+margin-top: 2em;
+}
+
+#categories ul{
+	list-style-type: none;
+	margin: 0.5em auto;
+	-webkit-padding-start: 0!important;
+}
+
+#categories ul li a:link, #categories ul li a:visited{
+	display: inline-block;
+	font: normal 0.5em 'Inconsolata';
+		padding: 10px;
+	margin: 10px 2px;
+	border: 1px dashed;
+	border-radius: 25px;
+}
+
+#categories ul li{ display: inline-block; }
+
+#categories li a:hover{
+	background: #632F53;
+	color: #F49985;
+}
+
+.list ul{
+	list-style-type: none;
+	-webkit-padding-start: 0;
+	margin: 1em 1.5em;
+	text-align: center;
+}
+
+.list ul li{
+	background: #632F53;
+	padding: 3%;
+	opacity: 0.8;
+	width: 10vw;
+	text-align: center;
+	border-radius: 30px;
+	color: #FED79C;
+	display: inline-block;
+	margin: 1em 1%;
+	height: 240px;
+	overflow: hidden;
+}
+
+.list ul li:hover{
+	opacity: 1;
+}
+
+.list ul li i{ color: #D16392; font-size: 95%}
+
+.list ul li img{
+	width: 100%;
+	height: 180px;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	object-fit: cover;
+}
+
+a.animanga::before{
+	content: url('img/redstar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.books::before{
+	content: url('img/orangestar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.games::before{
+	content: url('img/yellowstar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.movies::before{
+	content: url('img/greenstar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.music::before{
+	content: url('img/bluestar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.musicals::before{
+	content: url('img/indigostar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+a.series::before{
+	content: url('img/purplestar.gif');
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+inprogress::before{
+	content: url('img/onhold.png');
+	display: inline;
+	position: relative:;
+	top: 0;
+	left: 0;
+	float: left;
+}
+
+@media only screen and (max-width: 1025px) and (min-width: 769px) {
+    
+    .list ul li{
+        overflow: auto;
+    }
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 431px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+.list ul li{
+    overflow: auto;
+    width: 21%;
+}
+
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+.list ul li {
+    width: 40%;
+    overflow: auto;
+    }
+    
+    #blurb{
+        padding: 1em 1.5em 0.5em !important;
+    }
+    
+}

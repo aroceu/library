@@ -1,0 +1,206 @@
+:root{
+	--background: url('img/bgfav.gif') #fafafa;
+	--container-border: #ffbfd4;
+	--container-bg: #fafafa;
+	--h1: #F95D84;
+	--hover-color: #F95D84;
+	--navigation-link: #EE96B3;
+	--h3: #F95D84;
+	--main-color: #EE96B3;
+	--text: #333;
+	--footer-text: #333;
+	--med-pink: #EE96B3;
+	--bright-pink: #F95D84;
+	--blurb-text: #333;
+}
+
+.list{
+	overflow: scroll;
+	height: 25em;
+	font: normal 0.45em/120% 'Inconsolata';
+	text-align: left;
+	padding: 10px;
+	scrollbar-color: #F95D84 transparent;
+			scrollbar-width: thin;
+}
+
+ul#favlist{
+	-webkit-padding-start: 0;
+	-moz-padding-start: 0;
+	padding-start: 0;
+	list-style-type: none;
+	padding: 0 1em;
+}
+
+ul#favlist li h3{
+	padding: 0;
+	margin: 0;
+}
+
+ul#favlist li{
+	display: inline-block;
+	width: 46%;
+	background: url('img/favslight.gif');
+	border-radius: 20px;
+	padding: 1%;
+	margin: 0.8%;
+	border: 1px dashed #f2aac2;
+}
+
+.list ul{
+    list-style-type: none;
+}
+
+ul#favlist li:nth-child(3), ul#favlist li:nth-child(2){
+	background: url('img/favssolid.gif') repeat;
+}
+
+ul#favlist li .list ul li::before{
+	content: url('img/favbullet.png');
+	position: relative;
+	top: 0;
+	left: -25px;
+	vertical-align: text-top;}
+
+/** ship bullets **/
+ul#favlist li .list ul.ships li.poly::before{
+	content: url('img/yellowheart.gif');
+	position: relative;
+	top: 0;
+	left: -25px;
+	vertical-align: middle;
+}
+
+ul#favlist li .list ul.ships li.yaoi::before{
+	content: url('img/blueheart.gif');
+	position: relative;
+	top: 0;
+	left: -25px;
+	vertical-align: middle;
+}
+
+ul#favlist li .list ul.ships li.yuri::before{
+	content: url('img/pinkheart.gif');
+	position: relative;
+	top: 0;
+	left: -25px;
+	vertical-align: middle;
+}
+
+ul#favlist li .list ul.ships li.het::before{
+	content: url('img/greenheart.gif');
+	position: relative;
+	top: 0;
+	left: -25px;
+	vertical-align: middle;
+}
+
+ul#favlist li:nth-child(even){
+	float:right;
+}
+
+ul#favlist li .list ul li, ul#favlist li .list ul li:nth-child(even){
+	float: none;
+	background: none;
+	border: none;
+	width: auto;
+}b
+
+#favlist ul.box li, ul#favlist li .list ul li:nth-child(even){
+	width: auto;
+	display: block;
+	float: none;
+	text-align: left;
+	background: none;
+}
+
+ul.box{
+	background: none;
+}
+
+#favlist ul.box li, ul#favlist li .list ul li:nth-child(even){
+	display: list-item;
+}
+
+.list img{
+	float: right;
+	max-height: 80px;
+	padding: 0 0 5px 5px;
+	margin: 0px 25px 0 0;
+}
+
+.box li img{
+	float: none;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+
+@media only screen and (max-width: 1025px) and (min-width: 769px) {
+    
+    #blurb{
+        padding: 1em 2em;
+    }
+    
+    .list{
+        height: 20em;
+    }
+    
+    ul#favlist{
+        margin: 0;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) and (min-width: 431px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#blurb{
+    padding: 1em 2em 0.5em;
+}
+
+ul#favlist li{
+    width: auto;
+    display: block;
+    margin: 5% auto;
+}
+
+ul#favlist li:nth-child(even){
+    float: none;
+}
+
+ul#favlist li .list ul li, ul#favlist li .list ul li:nth-child(even) {
+    margin: 1% 0;
+}
+
+.list{
+    height: 15em;
+}
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+
+ul#favlist{
+    padding: 0 0.5em;
+    margin: 0;
+}
+
+ul#favlist li {
+    display: block;
+    width: auto;
+    padding: 1%;
+    margin: 5% 0;
+}
+
+ul#favlist li:nth-child(even) {
+    float: none;
+}
+
+}
+

@@ -1,0 +1,160 @@
+:root{
+	--background: url('img/log.gif') #fafafa;
+	--container-border: #E4B477;
+	--container-bg: url('img/dots.png') #fafafa;
+	--h1: #9e7767;
+	--hover-color: #E4B477;
+	--navigation-link: #EC3A6C;
+	--h3: #fa7597;
+	--main-color: #EC3A6C;
+	--text: #333;
+	--footer-text: #333;
+}
+
+
+#queue, #stories, #music, #others{
+	width: 44%;
+	display: inline-block;
+	margin: 0 3%;
+}
+
+#stories, #others{
+	float: right;
+}
+
+.list{
+	background: url('img/lace.png') #fafafa;
+	border-radius: 30px;
+	margin-bottom: 1em;
+	font: normal 45%/140% 'Inconsolata';
+	text-align: left;
+	color: #333;
+	padding: 15px;
+}
+
+.box{
+	overflow: scroll;
+	scrollbar-color: #EC3A6C transparent;
+    scrollbar-width: thin;
+    height: 20rem;
+}
+
+.list li{
+	margin: 1em 0;
+}
+
+h2{
+	font: normal 1.5em 'Rochester', display;
+	text-align: left;
+	color: #EC87B4;
+	margin: 0 0 -10px 0;
+	text-shadow: 0.03em 0.03em 0 #E4B477;
+}
+
+#current{
+	margin: 0.5em 0 1em;
+}
+
+.box li{
+	padding: 1%;
+	margin: 1%;
+}
+
+i{
+	color: #EC87B4;
+}
+
+em{
+	color: #9c796a;
+}
+
+h1{
+	text-shadow: 0.03em 0.03em 0 #EACEC1;
+}
+
+.desc{
+    float: right;
+    font: italic 30% 'Inconsolata';
+    position: relative;
+    top: 40px;
+    text-transform: lowercase;
+    text-shadow: none;
+    color: #9c8a72;
+}
+
+.box a:link, .box a:visited{
+    text-decoration: underline;
+}
+
+.box a:hover{
+    color: #EC87B4;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 1025px) and (min-width: 769px) {
+    
+    .list ul li{
+        overflow: auto;
+    }
+    
+    
+.desc{
+    display: none;
+}
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 431px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+.desc{
+    display: none;
+}
+
+#queue, #stories, #music, #others{
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+
+#stories, #others{
+	float: none;
+}
+
+.box{
+    height: 12em;
+}
+
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+.desc{
+    display: none;
+}
+
+#queue, #stories, #music, #others{
+	width: 95%;
+	display: block;
+	margin: 0 auto;
+}
+
+#stories, #others{
+	float: none;
+}
+
+.box{
+    height: 12em;
+}
+
+h2{
+    font-size: 1.3em;
+    text-align: center;
+}
+    
+}

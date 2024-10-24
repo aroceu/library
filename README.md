@@ -14,7 +14,7 @@ Additionally, this section provides links to my Letterboxd and Last.fm accounts,
 - Custom icons to indicate my relationship with certain items
 - Background images
 
-### pages
+## pages
 - Home (library)
 - The List (to-do)
 - Favorites (themes, things, characters, ships)

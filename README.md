@@ -26,10 +26,6 @@ Additionally, this section provides links to my Letterboxd and Last.fm accounts,
 
 This one's up too! I'll also be pushing updates through here.
 
-# to-do
-
-Nothing at the moment!
-
 # gallery
 ![aroceu's library: main page](screenshots/lib.png)
 ![aroceu's library: list page](screenshots/list.png)

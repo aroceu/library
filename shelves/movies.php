@@ -19,9 +19,10 @@
             		<li>Ex Machina (2015)</li>
             		<li>Ghostbusters (2016)</li>
             		<li>The Handmaiden (2016)</li>
+                    <li>Hoodwinked (2005)</li>
             		<li>Inception (2009) (I wasn't even in the fandom but in 2016 I randomly watched it like 7 times that year so I feel the need to add it here)</li>
             		<li>The Incredibles (2004) <favorite></favorite></li>
-            		<li>The Iron Giant (1999)</li>
+            		<li>The Iron Giant (1999)<favorite></favorite></li>
             		<li>Jennifer's Body (2009)</li>
             		<li>Josie and the Pussycats (2001)</li>
             		<li>Knives Out (series) <favorite></favorite></li>
@@ -48,7 +49,7 @@
             		<li>Scream (1996)</li>
             		<li>Shazam! (2019)</li>
             		<li>Shrek (seen 1 - 4 but a "Shrek 2 is the best movie ever made" truther) (also Puss in Boots: The Last Wish was really good)</li>
-            		<li>The Social Network (2009)</li>
+            		<li>The Social Network (2009)<favorite></favorite></li>
             		<li>Spiderverse (series) <favorite></favorite></li>
             		<li>Spy Kids (1 - 3)</li>
             		<li>Star Wars (series)</li>

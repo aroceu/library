@@ -40,7 +40,7 @@
             		<li>immature protagonists with hearts of gold</li>
             		<li>main characters / heroes</li>
             		<li>philosophy and the complications of being human</li>
-            		<li>time travel and the physical complications of time passing</li>
+            		<li>time travel and the (meta)physical complications of time passing</li>
             		<li>quiet cocky geniuses with a moral code</li>
             		<li>any form of competition, especially when physical (including and especially sports)</li>
             		<li>same-gender characters being trapped together</li>
@@ -138,6 +138,7 @@
             		
             		<li>Lan Wangji (Mo Dao Zu Shi)</li>
             		<li>Lay (Yixing Zhang) (EXO)</li>
+            		<li>Lee Sungmin/LIU (SNSD)</li>
             		<li>Lisa (리사) (BLACKPINK)</li>
             		<li>Leigh-Anne Pinnock (Little Mix)</li>
             		<li>Manami Sangaku (Yowapeda)</li>

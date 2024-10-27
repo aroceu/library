@@ -24,7 +24,7 @@
             		<li>Powerpuff Girls <favorite></favorite></li>
             		<li>Randy Cunningham 9th Grade Ninja <onhold></onhold></li>
             		<li>Scooby Doo (Where Are You, A Pup Named, What's New?)</li>
-            		<li>South Park <dropped></dropped></li>
+            		<li>South Park</li>
             		<li>Steven Universe <onhold></onhold></li>
             		<li>Teen Titans</li>
             		<li>Total Drama Island <onhold></onhold></li>

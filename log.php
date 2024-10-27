@@ -44,6 +44,7 @@
 				<ul>
 				    
 				    <li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
+				    <li><b><em><a href="https://www.youtube.com/watch?v=nrhGTPXhSzs&list=PLszepnkojZI6L1DHV2vEaGdjo_QkQizF_">Pluto</a></em></b>: the Series (Thai BL)</li>
 					<li>idk about books but like, all of them</li>
 				</ul>
 

@@ -1,4 +1,4 @@
-<li><a onclick="javascript:ShowHide('music')" class="h3"><h3>Music <small><a href="https://aroceu.com/music" style="font: normal 60% 'Inconsolata';">(log)</a> <a href="https://last.fm/user/aroceu" style="vertical-align: text-bottom;"><i class="fa-brands fa-lastfm"></i></a></small></h3></a>
+<li><a onclick="javascript:ShowHide('music')" class="h3"><h3>Music <small><a href="https://last.fm/user/aroceu" style="vertical-align: text-bottom;"><i class="fa-brands fa-lastfm"></i></a> <a href="https://aroceu.com/music" style="font: normal 60% 'Inconsolata';">(log)</a></small></h3></a>
             <div class="list" id="music" >
             	<img src="img/music.gif" alt="">
             	<ul class="titles">

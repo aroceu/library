@@ -5,7 +5,7 @@
             		<li>High School Musical</li>
             		<li>In the Heights</li>
             		<li>Phantom of the Opera</li>
+                    <li>Warriors (2024) <small>* not technically a musical, but it is a story told in music form so I'm counting it here</small></li>
             		<li>West Side Story</li>
-            		<li>One time when I was stoned I tried to understand the point of Cats (it did not help)</li>
             	</ul>
             </div></li>

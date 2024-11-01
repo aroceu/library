@@ -69,6 +69,7 @@
 				<li>Ted Lasso (<i>s1 rewatch with a friend</i>)</li>
 				<li>Bad Buddy (<i>rewatch with Sani</i>)</li>
 				<li>23.5 Degrees (<i>started</i>)</li>
+				<li>Warriors (2024) (musical/album)</li>
 				</ul>
 			</div>
 

@@ -100,6 +100,7 @@
 			    <li>And also <a href="https://www.youtube.com/watch?v=ZYeU-hHAzQQ">Citizen Queen's cover of bad guy</a></li>
 			    <li>Fuck it I'll put <a href="https://www.youtube.com/watch?v=N0DEOjLKRC8">Pentagon's cover of Lovesick Girls</a> here too</li>
 			    <li><a href="https://www.youtube.com/watch?v=hbcGx4MGUMg&pp=ygUNbGlzYSByb2Nrc3Rhcg%3D%3D">Rockstar</a> and <a href="https://www.youtube.com/watch?v=pxGM_TOgHuM&pp=ygUSbGlzYSBtb29ubGl0IGZsb29y">Moonlit Floor</a> by LISA</li>
+			    <li>Ros&eacute;'s (ft. Bruno Mars) <a href="https://www.youtube.com/watch?v=ekr2nIex040&pp=ygUIcm9zZSBhcHQ%3D">APT</a> is catchy as hell but I gotta say <a href="https://www.youtube.com/watch?v=GOfQojp6QAk">AndyWuMusicland's remix mashup of it with Avril Lavigne's Girlfriend</a> is the most fun thing I've ever heard.
 			</ul>
 
 			</div>

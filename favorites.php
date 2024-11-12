@@ -81,6 +81,7 @@
             		<li>dragons</li>
             		<li>oceans</li>
             		<li>elephants</li>
+            		<li>anchors / arrows</li>
             		<li>sea creatures (dolphins, turtles, sharks, seahorses, plesiosaurus, the loch ness monster)</li>
 
             		<li>flowers</li>

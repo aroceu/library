@@ -117,7 +117,9 @@
 
 				<div class="box">
 
-				<ul><li><a href="https://www.youtube.com/watch?v=DCRfK6Fs0DU">LOST: A Deep Dive Into the Controversial Ending</a> by Billiam</li>
+				<ul>
+					<li>Pokemon TCG (mobile game)</li>
+					<li><a href="https://www.youtube.com/watch?v=DCRfK6Fs0DU">LOST: A Deep Dive Into the Controversial Ending</a> by Billiam</li>
 			    <li><a href="https://pokerogue.net">Pok&eacute;Rogue</a> (game)</li>
 				<li>Ring Fit Adventure (game)</li>
 				<li>Splatoon 3 (game) (<i>always</i>)</li>

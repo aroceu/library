@@ -70,6 +70,9 @@
 				<li>Bad Buddy (<i>rewatch with Sani</i>)</li>
 				<li>23.5 Degrees (<i>started</i>)</li>
 				<li>Warriors (2024) (musical/album)</li>
+				<li>A Simple Favor (movie)</li>
+				<li>Nimona (movie)</li>
+				<li>Storks (movie) (<i>rewatch</i>)</li>
 				</ul>
 			</div>
 

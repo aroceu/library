@@ -7,7 +7,6 @@
             			<br />Dr. Jekyll & Mr. Hyde
             			<br /><i>Robert Stevenson</i></li>
 
-
             			<li><img src="todo/books/onearth.jpg">
             			<br />On Earth We're Briefly Gorgeous
             			<br /><i>Ocean Vuong</i></li>

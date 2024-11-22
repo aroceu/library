@@ -49,7 +49,7 @@
             			
             			<li><img src="todo/games/kh.jpg">
             			<br />Kingdom Hearts
-            			<br />Nintendo Switch</li>
+            			<br /><i>Nintendo Switch</i></li>
 
 
             		</ul>

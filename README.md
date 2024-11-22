@@ -20,12 +20,6 @@ Additionally, this section provides links to my Letterboxd and Last.fm accounts,
 - Favorites (themes, things, characters, ships)
 - Log (regularly updated log of my media interests for the current year as well as a queue; once the year passes, this will contain an archive of past years' logs as well)
 
-# changelog
-
-### 23 October 2024
-
-This one's up too! I'll also be pushing updates through here.
-
 # gallery
 ![aroceu's library: main page](screenshots/lib.png)
 ![aroceu's library: list page](screenshots/list.png)

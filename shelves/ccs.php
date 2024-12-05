@@ -11,7 +11,7 @@
             		<li>pChal</li>
             		<li>PointCrow</li>
             		<li>SmallAnt</li>
-                    <li>Swiftologist</li>
+                    <li>Swiftologist/Evolution of a Snake</li>
                     <li>I watch react channels casually, but selectively for things I already know/like</li>
             	</ul>
             </div></li>

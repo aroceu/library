@@ -73,6 +73,7 @@
 				<li>A Simple Favor (movie)</li>
 				<li>Nimona (movie)</li>
 				<li>Storks (movie) (<i>rewatch</i>)</li>
+				<li>Wicked (movie)</li>
 				</ul>
 			</div>
 

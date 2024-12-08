@@ -77,7 +77,7 @@
 
             <li><a onclick="javascript:ShowHide('things')" class="h3"><h3>Things</h3></a>
             <div class="list" id="things" >
-            	<img src="https://64.media.tumblr.com/9785fa79612b9bfe5d9d3b266134a906/tumblr_inline_mmpzxtApqz1roozkr.gif" alt="">
+            	<img src="img/dragon.gif" alt="">
             	<ul class="box">
             		<li>dragons</li>
             		<li>oceans</li>
@@ -104,7 +104,7 @@
             <li><a onclick="javascript:ShowHide('characters')" class="h3"><h3>Characters/People</h3></a>
             <div class="list" id="characters" >
 
-            	<img src="https://64.media.tumblr.com/94e473ca00189239d2c118cd36eed6e2/tumblr_mllhsn9PLU1r7y61oo1_100.gif" alt="">
+            	<img src="img/bubblesbunny.gif" alt="">
             	
             	<ul class="box">
             		<li>Aomine Daiki (Kuroko No Basuke)</li>
@@ -185,7 +185,7 @@
             <li><a onclick="javascript:ShowHide('ships')" class="h3"><h3>Ships</h3></a>
             <div class="list" id="ships" >
 
-            	<img src="https://64.media.tumblr.com/c749c88e579e9039d312dc0b783d7fa1/tumblr_inline_mkn8j0ALNl1roozkr.gif" alt="">
+            	<img src="img/lkira.gif" alt="">
             	
             	<ul class="ships">
             		<li class="yuri">Agent 3/Agent 8 (Splatoon)</li>

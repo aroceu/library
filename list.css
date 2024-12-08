@@ -71,7 +71,7 @@ margin-top: 2em;
 
 #categories ul li{ display: inline-block; }
 
-#categories li a:hover{
+#categories li a:hover, #categories li a:active, #categories li a:focus{
 	background: #632F53;
 	color: #F49985;
 }

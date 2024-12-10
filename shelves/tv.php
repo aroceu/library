@@ -20,7 +20,12 @@
             		<li>Letterkenny (season 1)</li>
             		<li>LOST <favorite></favorite></li>
             		<li>Merlin</li>
-            		<li>Misfits</li>
+            		<li>Misfits
+                        <ul>
+                            <li>I've technically watched all of it but that doesn't mean I love all of it. You know.
+                            </li>
+                        </ul>
+                    </li>
             		<li>Our Flag Means Death (season 1)</li>
             		<li>Phil of the Future</li>
             		<li>Psych <favorite></favorite></li>

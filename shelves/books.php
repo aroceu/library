@@ -22,7 +22,10 @@
             		<li>Teen Idol by Meg Cabot</li>
             		<li>The Tales of the Frog Princess (series) by E.D. Baker</li>
             		<li>The Thief Lord by Cornelia Funke</li>
-            		<li>Twilight Chronicles by Stephenie Meyer</li>
+            		<li>Twilight Chronicles by Stephenie Meyer
+                        <ul>
+                            <li>I read the first three books and half of <i>Breaking Dawn</i> all around the time each respective book came out. I was actually never really that interested in it, but all of my middle school friends were obsessed with it circa 2006-08, so I'd given into peer pressure and read the series. At that age I was actually more obsessed with how bad the writing was rather than the series itself, lmao. I'm not marking it as "dropped" because it was never really that relevant to me the way that a lot of other stuff I've dropped has been, but it's funny for me to archive whatever relevance it had to me here anyway.</li>
+                        </ul></li>
             		<li>Tales of Magic (series) by Edward Eager <favorite></favorite></li>
             		<li>Warrior Cats by Erin Hunt</li>
             		<li>The Westing Game by Ellen Raskin</li>

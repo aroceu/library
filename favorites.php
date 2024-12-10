@@ -202,6 +202,7 @@
             		<li class="yuri">Christine/Meg (Phantom of the Opera)</li>
             		<li class="yaoi">Draco/Harry (Harry Potter)</li>
             		<li class="yaoi">Eduardo/Mark (The Social Network)</li>
+            		<li class="yuri">Elphaba/Galinda (Wicked)</li>
             		<li class="yaoi">Eren/Jean (SNK)</li>
             		<li class="yaoi">Gabe Saporta/William Beckett (Fueled By Ramen)</li>
             		<li class="yuri">Gabriella/Sharpay (High School Musical)</li>

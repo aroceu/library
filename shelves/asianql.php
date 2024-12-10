@@ -8,7 +8,7 @@
             		<li>The Big Apple</li>
             		<li>BJ Alex</li>
             		<li>Home Alone Together <favorite></favorite></li>
-            		<li>Mo Dao Zu Shi (book, manhua, donghua)/The Untamed</li>
+            		<li>Mo Dao Zu Shi (book, manhua, donghua)/The Untamed <favorite></favorite></li>
             		<li>My School President</li>
             		<li>Not Me <onhold></onhold></li>
             		<li>On or Off <favorite></favorite></li>

@@ -8,7 +8,7 @@
 		            		<li>Ariana Grande <favorite></favorite></li>
 		            		<li>B1A4</li>
 		            		<li>Backstreet Boys</li>
-		            		<li>Beyonce</li>
+		            		<li>Beyonc&eacute;</li>
 		            		<li>Big Bang</li>
 		            		<li>Big Time Rush</li>
 		            		<li>BLACKPINK <favorite></favorite></li>

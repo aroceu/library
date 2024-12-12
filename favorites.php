@@ -25,7 +25,8 @@
 	<h1>aroceu's favorites</h1>
 
             <div id="blurb"><p>Here are my favorites &mdash; from the general to the specific &mdash; in a variety of entertainment forms. Though I think of myself as having a wide and diverse range of interests, I am also undeniably drawn to a pattern of preferences, pointed out and exemplified below.</p>
-            	<p>There are ships/characters for media that I have dropped here because I want to be thorough. However, my dropping something takes precedence over my favorite ships or characters.</p></div>
+            	<p>There are ships/characters for media that I have dropped here because I want to be thorough. However, my dropping something takes precedence over my favorite ships or characters.</p>
+            	<p>Also, I am a relentless multishipper who likes a lot of different types of dynamics. My ships are my favorites of all of my ships, but there are a lot more that I enjoy more casually.</div>
 
 
 
@@ -72,6 +73,7 @@
             		<li>redblue ships</li>
             		<li>good boy/brat ships except both parties are both of them</li>
             		<li>matchmaking / genies / cupid / lovebugs / falling in love <i>seemingly</i> under an influence</li>
+            		<li>canon ships usually, particularly the het ones</li>
             	</ul>
             </div></li>
 
@@ -82,7 +84,7 @@
             		<li>dragons</li>
             		<li>oceans</li>
             		<li>elephants</li>
-            		<li>anchors / arrows</li>
+            		<li>anchors</li>
             		<li>sea creatures (dolphins, turtles, sharks, seahorses, plesiosaurus, the loch ness monster)</li>
 
             		<li>flowers</li>
@@ -143,6 +145,7 @@
             		<li>Lee Sungmin/LIU (SNSD)</li>
             		<li>Lisa (리사) (BLACKPINK)</li>
             		<li>Leigh-Anne Pinnock (Little Mix)</li>
+            		<li>Malina (Emperor's New School)</li>
             		<li>Manami Sangaku (Yowapeda)</li>
             		<li>Mayuzumi Chihiro (Kuroko No Basuke)</li>
             		<li>Miles Straume (LOST)</li>
@@ -178,6 +181,7 @@
             		<li>White/Hilda (Pok&eacute;mon - all)</li>
             		<li>Yang Hongseok (Pentagon)</li>
             		<li>Yellow (Pok&eacute;mon Adventures)</li>
+            		<li>Yuki Sohma (Fruits Basket)</li>
             		<li>Zero Suit Samus (Super Smash Bros.)</li>
             	</ul>
             </div></li>
@@ -188,6 +192,7 @@
             	<img src="img/lkira.gif" alt="">
             	
             	<ul class="ships">
+            		<li class="het">Adaman/Irida (Pok&eacute;mon)</li>
             		<li class="yuri">Agent 3/Agent 8 (Splatoon)</li>
             		<li class="yaoi">Albus Severus/Scorpius (Harry Potter)</li>
             		<li class="yuri">Amy/Rosa (Brooklyn 99)</li>
@@ -197,10 +202,16 @@
             		<li class="yaoi">Barry/Oliver (Arrowverse)</li>
             		<li class="het">Beast Boy/Terra (Teen Titans)</li>
             		<li class="yuri">Beca/Chloe (Pitch Perfect)</li>
+            		<li class="yaoi">Billy/Freddy (Shazam!)</li>
             		<li class="yuri">Blossom/Princess Morbucks (Powerpuff Girls)</li>
+            		<li class="yaoi">Bokuto/Kuroo (Haikyuu!!)</li>
+            		<li class="yaoi">Bruce/Harvey (The Dark Knight Series)</li>
             		<li class="yaoi">Butters/Kenny (South Park)</li>
             		<li class="yuri">Christine/Meg (Phantom of the Opera)</li>
+            		<li class="het">Cindy/Jimmy (Jimmy Neutron)</li>
+            		<li class="yaoi">Dirk/Todd (Dirk Gently)</li>
             		<li class="yaoi">Draco/Harry (Harry Potter)</li>
+            		<li class="yaoi">Dylan Rhodes/J. Daniel Atlas (Now You See Me)</li>
             		<li class="yaoi">Eduardo/Mark (The Social Network)</li>
             		<li class="yuri">Elphaba/Galinda (Wicked)</li>
             		<li class="yaoi">Eren/Jean (SNK)</li>
@@ -229,17 +240,25 @@
             		<li class="yuri">Mary-Jane/Gwen (Marvel)</li>
             		<li class="yaoi">Merlin/Arthur (Merlin)</li>
             		<li class="yaoi">Oikawa/Suga (Haikyuu!!)</li>
+            		<li class="poly">Napoleon/Illya/Gaby (The Man From U.N.C.L.E)</li>
+            		<li class="yaoi">Pang/Wave (The Gifted)</li>
             		<li class="yaoi">Pat/Pran (Bad Buddy)</li>
             		<li class="yuri">Pearl/Marina (Splatoon)</li>
+            		<li class="yaoi">Pitch/Sandy (Rise of the Guardians)</li>
             		<li class="yaoi">Poe/Finn (Star Wars)</li>
+            		<li class="yaoi">Professor X/Magneto (X-Men) (classic&trade;)</li>
             		<li class="yaoi">Raimundo/Omi (Xiaolin Showdown)</li>
             		<li class="yaoi">Red/Gold (Pok&eacute;mon)</li>
             		<li class="het">Ron/Hermione (Harry Potter)</li>
+            		<li class="poly">Roy/Jamie/Keeley (Ted Lasso)</li>
             		<li class="yaoi">Ryan/Brendon (Panic! at the Disco)</li>
             		<li class="yaoi">Sasuke/Naruto (Naruto)</li>
             		<li class="poly">Shawn/Gus/Juliet (Psych)</li>
+            		<li class="yaoi">Sokka/Zuko (Avatar: The Last Airbender)</li>
             		<li class="yaoi">Stan/Kyle (South Park)</li>
+            		<li class="yuri">Swan/Mercy (Warriors 2024)</li>
             		<li class="yuri">Tahani/Eleanor (The Good Place)</li>
+            		<li class="poly">Tashi/Patrick/Art (Challengers)</li>
             		<li class="yaoi">Wonil/Woosang (No Breathing)</li>
             		<li class="yaoi">Zayn/Niall (One Direction)</li>
             	</ul>

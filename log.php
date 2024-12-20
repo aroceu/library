@@ -83,7 +83,7 @@
 
 		<div id="music">
 
-			<h2>music <span class="desc">the one constant in my life</span></h2> 
+			<h2>music <span class="desc">the one constant in my life (<a href="https://aroceu.com/music/2024">log</a>)</span></h2> 
 
 			<div class="list">
 

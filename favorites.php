@@ -59,7 +59,7 @@
             		<li>satire / parody</li>
             		<li>fairy tales / mythology / folktales / kids' tales</li>
             		<li>comedy-horror</li>
-            		<li>boy (genderless) and his dog (genderless) / spongebob and squidward / with the less boisterous one secretly pining for the other</li>
+            		<li>boy (genderless) and his dog (genderless) / spongebob and squidward / unstoppable force x immovable object (the immovable object is secretly pining for the unstoppable force)</li>
             		<li>romance between two women who have the same male love interest and/or ex-boyfriend</li>
             		<li>emotionally repressed or unexpressive characters who are sticklers for rules</li>
             		<li>female characters who are mean / popular / shallow (bonus points if they are red-headed and/or exceptionally ditzy or intelligent (either works) and/or the eldest child)</li>

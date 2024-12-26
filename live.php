@@ -17,6 +17,8 @@
 		}
 		}
 	// ]]></script>
+
+<link rel="stylesheet" href="live.css" type="text/css" media="screen" />
         
  <?php include('header.php');?>
 

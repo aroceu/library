@@ -27,7 +27,7 @@
             <div id="blurb"><p>Welcome to my media library! Below is a non-comprehensive yet historically thorough list of media that has entertained me to some significance once, if not right now. Many I no longer enjoy, but they used to mean something to me at one point, and I feel no shame in that. Others, meanwhile, have a place in my heart forever.</p> 
         	<p>Movies and books are my favorite, because though I'm as much of a sucker for serialization as anyone else, I prefer a full story being told from beginning to end in a more concise format. I love a story told in one shot that makes me think about it for the rest of my life.</p> 
             <p>I abide by the principle that if I don't enjoy something, I don't have to finish it.</p>
-            <p><a href="live">View my live show archive.</a> (click)</p>
+            <p><a href="live">View my live show archive.</a></p>
 
             <blockquote><onhold></onhold> in progress and on hold (because I'm lazy) but will return to<br />
             	<dropped></dropped> dropped (likely will never become relevant to me again)

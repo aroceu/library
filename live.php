@@ -24,7 +24,7 @@
 
 	<h1>aroceu's live show archive</h1>
 
-            <div id="blurb"><p>This section is more out of the way because I'm not really the type of person who goes to live shows; it tends to be more of an ~event when I do. Below is an archive of all the different types entertainment that I've seen live, from concerts to musicals to comedy shows.</p>
+            <div id="blurb"><p>This section is more out of the way because I'm not really the type of person who goes to live shows; it tends to be more of an ~event when I do. Below is an archive of all the different types entertainment that I've seen live, from concerts to musicals to comedy shows (not inclusive of school productions.)</p>
 
                 <p>I also used to be super involved in my old church community so I've been to a handful of Christian concerts as well, but I don't remember those years/dates or the groups anymore. I will say I've seen Hillsong United live, though.</p>
 

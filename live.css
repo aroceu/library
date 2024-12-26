@@ -1,12 +1,12 @@
 :root{
     --background: url('img/bglive.jpg') #fafafa;
     --container-border: #7a756f;
-    --container-bg: #fafafa;
+    --container-bg: #fff;
     --h1: #7a756f;
     --hover-color: #a09d9a;
     --navigation-link: #655E58;
     --h3: #F95D84;
-    --main-color: #bfb4a8;
+    --main-color: #aaa094;
     --text: #333;
     --footer-text: #333;
 }

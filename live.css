@@ -65,7 +65,7 @@ ul#archivelist{
     padding-left: 5%;
 }
 
-#footer a:hover, #footer a:focus{
+.footer a:hover, .footer a:focus{
     color: #333;
 }
 

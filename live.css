@@ -1,0 +1,104 @@
+:root{
+    --background: url('img/bglive.jpg') #fafafa;
+    --container-border: #7a756f;
+    --container-bg: #fafafa;
+    --h1: #7a756f;
+    --hover-color: #a09d9a;
+    --navigation-link: #655E58;
+    --h3: #F95D84;
+    --main-color: #bfb4a8;
+    --text: #333;
+    --footer-text: #333;
+}
+
+blockquote{
+    padding: 10px;
+    border-radius: 20px;
+                color: #555;
+                font-size: 90%;
+                line-height: 140%;
+                background: #F5ECE5;
+                border: 1px dashed #;
+}
+
+blockquote img{
+    vertical-align: text-bottom;
+}
+
+
+mg::before{
+    content: url('mg.png');
+    display: inline;
+    position: relative:;
+    top: 0;
+    left: 0;
+}
+
+ul#archivelist{
+    list-style-type: none;
+}
+
+#archivelist{
+    background: url('img/listbglive.png') #fafafa;
+    font-size: 45%;
+  text-align: left;
+  width: 70%;
+  margin: 1em auto 2.5em;
+  line-height: 160%;
+  padding: 2.5%;
+  border: 1px solid #ddd6ce;
+  border-radius: 20px;
+}
+
+#archivelist em{
+    text-transform: uppercase;
+    color: #7a756f;
+}
+
+#archivelist strong{
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+
+#archivelist li{
+    text-indent: -5%;
+    padding-left: 5%;
+}
+
+@media only screen and (max-width: 1025px) and (min-width: 769px) {
+    
+    #blurb{
+        padding: 1em 2em;
+    }
+    
+    .list{
+        height: 20em;
+    }
+    
+    ul#favlist{
+        margin: 0;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) and (min-width: 431px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#archivelist{
+    width: 85%;
+}
+
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#archivelist{
+    width: 85%;
+}
+
+}

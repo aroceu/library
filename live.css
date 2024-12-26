@@ -27,7 +27,7 @@ blockquote img{
 
 
 mg::before{
-    content: url('mg.png');
+    content: url('img/mg.png');
     display: inline;
     position: relative:;
     top: 0;

@@ -74,6 +74,7 @@
             		<li>good boy/brat ships except both parties are both of them</li>
             		<li>matchmaking / genies / cupid / lovebugs / falling in love <i>seemingly</i> under an influence</li>
             		<li>canon ships usually, particularly the het ones</li>
+            		<li>exceptionally talented characters with high reputations who are of somewhat equal skill and have a rivalrous relationship in some way</li>
             	</ul>
             </div></li>
 

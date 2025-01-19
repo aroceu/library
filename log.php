@@ -26,14 +26,6 @@
 
 	<div id="current">
 
-		<!-- <blockquote>
-
-			<b><i>Queue:</i></b> What I plan on indulging in next
-	  <br /><b><i>Stories:</i></b> Books, series (cartoons, anime, tv, comics), movies, QL, manga, musicals, etc.
-	  <br /><b><i>Music:</i></b> Any music that I'm obsessed with in any capacity at any point during the year
-	  <br /><b><i>Others:</i></b> Podcasts, content creators, video games, etc.
-		</blockquote>-->
-
 		<div id="queue">
 
 			<h2>queue <span class="desc">what i plan on indulging in next</span></h2>
@@ -61,14 +53,130 @@
 
 			<div class="list">
 				<div class="box">
-				<ul><li>LOST (TV) (<i>rewatch</i>)</li>
+				<ul>
+					<li>One Piece (live action) (finally finished, started at the end of 2023)</li>
+					<li>Rush Hour 2</li>
+					<li>The Social Network (<i>rewatch with B</i>)</li>
+					<li>Challengers (<i>rewatch with Sani</i>)</li>
+					<li>The Truman Show (<i>rewatch with L</i>)</li>
+					<li>Book of Life (<i>rewatch</i>)</li>
+					<li>White Collar</li>
+				</ul>
+			</div>
+
+		</div>
+
+		</div>
+
+		<div id="music">
+
+			<h2>music <span class="desc">the one constant in my life (<a href="https://aroceu.com/music/2024">log</a>)</span></h2> 
+
+			<div class="list">
+
+				<div class="box">
+				<ul>
+					<li>TBD</li>
+			</ul>
+
+			</div>
+
+			</div>
+
+		</div>
+
+		<div id="others">
+
+			<h2>others <span class="desc">podcasts, content, games, etc.</span></h2>
+
+			<div class="list">
+
+				<div class="box">
+
+				<ul>
+					<li>TBD</li>
+
+			</ul>
+
+		</div>
+
+		</div>
+
+	</div>
+
+	</div>
+
+	<a onclick="javascript:ShowHide('2024')" class="h3"><h3>2024</h3></a>
+
+	<div id="2024" style="display: none;">
+
+		<!-- <blockquote>
+
+			<b><i>Queue:</i></b> What I plan on indulging in next
+	  <br /><b><i>Stories:</i></b> Books, series (cartoons, anime, tv, comics), movies, QL, manga, musicals, etc.
+	  <br /><b><i>Music:</i></b> Any music that I'm obsessed with in any capacity at any point during the year
+	  <br /><b><i>Others:</i></b> Podcasts, content creators, video games, etc.
+		</blockquote>-->
+
+	<div id="ccs">
+
+			<h2>content creators</h2>
+
+			<div class="list">
+
+				<div class="box">
+
+				<ul>
+					<li>Evolution of a Snake</li>
+				<li>Fir (content creator) (I already watched him I just watched him a lot more this year)</li>
+				<li>Alpharad (content creator) (I started watching him last year and have been avidly keeping up this year)</li>
+				<li>Mongy Mondays (content creation adjacent)</li>
+				<li>Super Mario Odyssey: Hide & Seek (content creation adjacent)</li>
+
+			</ul>
+
+		</div>
+
+		</div>
+
+	</div>
+
+	<div id="others">
+
+			<h2>games</h2>
+
+			<div class="list">
+
+				<div class="box">
+
+				<ul>
+					<li><a href="https://www.youtube.com/watch?v=4N6y6LEwsKc">The Artist is 
+					<li>Pokemon TCG (mobile game)</li>
+			    <li><a href="https://pokerogue.net">Pok&eacute;Rogue</a> (game)</li>
+				<li>Ring Fit Adventure (game)</li>
+				<li>Splatoon 3 (game) (<i>always</i>)</li>
+			</ul>
+
+		</div>
+
+		</div>
+
+	</div>
+
+			<span style="clear: both;"></span>
+
+
+	<div id="movies">
+
+			<h2>movies</h2>
+
+			<div class="list">
+				<div class="box">
+				<ul>
 				<li>Glass Onion (movie)</li>
 				<li>Challengers (movie) <i>x2</i></li>
 				<li>Spy Kids (movie) (rewatch with IDX)</li>
 				<li>Shrek (movie) (rewatch with IDX)</li>
-				<li>Ted Lasso (<i>s1 rewatch with a friend</i>)</li>
-				<li>Bad Buddy (<i>rewatch with Sani</i>)</li>
-				<li>23.5 Degrees (<i>started</i>)</li>
 				<li>Warriors (2024) (musical/album)</li>
 				<li>A Simple Favor (movie)</li>
 				<li>Nimona (movie)</li>
@@ -81,9 +189,9 @@
 
 		</div>
 
-		<div id="music">
+	<div id="music">
 
-			<h2>music <span class="desc">the one constant in my life (<a href="https://aroceu.com/music/2024">log</a>)</span></h2> 
+			<h2>music</h2> 
 
 			<div class="list">
 
@@ -115,9 +223,11 @@
 
 		</div>
 
+				<span style="clear: both;"></span>
+
 		<div id="others">
 
-			<h2>others <span class="desc">podcasts, content, games, etc.</span></h2>
+			<h2>other media</h2>
 
 			<div class="list">
 
@@ -125,17 +235,7 @@
 
 				<ul>
 					<li><a href="https://www.youtube.com/watch?v=4N6y6LEwsKc">The Artist is Absent: Davey Wreden and The Beginner's Guide</a> by Innuendo Studios</li>
-					<li>Evolution of a Snake</li>
-					<li>Pokemon TCG (mobile game)</li>
 					<li><a href="https://www.youtube.com/watch?v=DCRfK6Fs0DU">LOST: A Deep Dive Into the Controversial Ending</a> by Billiam</li>
-			    <li><a href="https://pokerogue.net">Pok&eacute;Rogue</a> (game)</li>
-				<li>Ring Fit Adventure (game)</li>
-				<li>Splatoon 3 (game) (<i>always</i>)</li>
-				<li>Fir (content creator) (I already watched him I just watched him a lot more this year)</li>
-				<li>Alpharad (content creator) (I started watching him last year and have been avidly keeping up this year)</li>
-				<li>Mongy Mondays (content creation adjacent)</li>
-				<li>Super Mario Odyssey: Hide & Seek (content creation adjacent)</li>
-
 			</ul>
 
 		</div>

@@ -106,7 +106,7 @@
 
 	</div>
 
-	<a onclick="javascript:ShowHide('twentyfour')" class="h3"><h1>2024</h1></a>
+	<a onclick="javascript:ShowHide('twentyfour')" class="h3"><h3>2024</h3></a>
 
 	<div id="twentyfour" style="display: none;">
 

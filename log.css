@@ -12,7 +12,7 @@
 }
 
 
-#queue, #stories, #music, #others{
+#queue, #stories, #music, #others, #ccs, #games, #movies, #shows{
 	width: 44%;
 	display: inline-block;
 	margin: 0 3%;

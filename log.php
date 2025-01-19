@@ -244,6 +244,23 @@
 
 	</div>
 
+		<div id="shows">
+
+			<h2>shows</h2>
+
+			<div class="list">
+				<div class="box">
+				<ul><li>LOST (TV) (<i>rewatch</i>)</li>
+				<li>Ted Lasso (<i>s1 rewatch with a friend</i>)</li>
+				<li>Bad Buddy (<i>rewatch with Sani</i>)</li>
+				<li>23.5 Degrees (<i>started</i>)</li>
+				</ul>
+			</div>
+
+		</div>
+
+		</div>
+
 </div>
 
 		<!-- i have a design for previous years when the time comes, check my commonplace book :3-->

@@ -141,7 +141,7 @@
 
 	</div>
 
-	<div id="others">
+	<div id="games">
 
 			<h2>games</h2>
 

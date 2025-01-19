@@ -18,8 +18,12 @@
 	margin: 0 3%;
 }
 
-#stories, #others{
+#stories, #others, #twentyfour #games, #twentyfour #music, #twentyfour #shows{
 	float: right;
+}
+
+#twentyfour #others{
+	float: none;
 }
 
 .list{

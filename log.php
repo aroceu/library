@@ -106,9 +106,9 @@
 
 	</div>
 
-	<a onclick="javascript:ShowHide('2024')" class="h3"><h3>2024</h3></a>
+	<a onclick="javascript:ShowHide('twentyfour')" class="h3"><h3>2024</h3></a>
 
-	<div id="2024" style="display: none;">
+	<div id="twentyfour" style="display: none;">
 
 		<!-- <blockquote>
 

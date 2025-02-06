@@ -36,7 +36,6 @@
 				<ul>
 				    
 				    <li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
-				    <li><b><em><a href="https://www.youtube.com/watch?v=nrhGTPXhSzs&list=PLszepnkojZI6L1DHV2vEaGdjo_QkQizF_">Pluto</a></em></b>: the Series (Thai GL)</li>
 					<li>idk about books but like, all of them</li>
 				</ul>
 
@@ -61,6 +60,7 @@
 					<li>The Truman Show (<i>rewatch with L</i>)</li>
 					<li>Book of Life (<i>rewatch</i>)</li>
 					<li>White Collar</li>
+					<li>Wreck-It Ralph (<i>rewatch</i>)</li>
 				</ul>
 			</div>
 
@@ -76,7 +76,7 @@
 
 				<div class="box">
 				<ul>
-					<li>TBD</li>
+					<li><i>Gloom Division</i> by IDKHOW</li>
 			</ul>
 
 			</div>
@@ -94,7 +94,7 @@
 				<div class="box">
 
 				<ul>
-					<li>TBD</li>
+					<li>Global Pokedex Plus</li>
 
 			</ul>
 
@@ -106,7 +106,7 @@
 
 	</div>
 
-	<a onclick="javascript:ShowHide('twentyfour')" class="h3"><h3>2024</h3></a>
+	<a onclick="javascript:ShowHide('twentyfour')" class="h3"><h4>2024</h4></a>
 
 	<div id="twentyfour" style="display: none;">
 

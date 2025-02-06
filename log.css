@@ -107,6 +107,18 @@ h1{
 	background: #fafafa;
 }
 
+h4{
+	color: color: var(--h1);;
+	text-shadow: 0.03em 0.03em 0 #EACEC1;
+	font: bold 1.1em 'Rochester', cursive;
+}
+
+a h4:hover, a h4:focus{
+	color: var(--hover-color);
+  text-decoration: none;
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 1025px) and (min-width: 769px) {
     
     .list ul li{
@@ -172,5 +184,21 @@ h2{
     font-size: 1.3em;
     text-align: center;
 }
+
+#twentyfour{
+	width: auto;
+	border-radius: 0;
+}
+
+#twentyfour #queue, #twentyfour #stories, #twentyfour #music, #twentyfour #others, #twentyfour #ccs, #twentyfour #games, #twentyfour #movies, #twentyfour #shows{
+	width: auto;
+	display: block;
+	margin: 0;
+}
+
+#twentyfour #stories, #twentyfour #others, #twentyfour #music, #twentyfour #shows{
+  float: none;
+}
+
     
 }

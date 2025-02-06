@@ -155,6 +155,21 @@ html {
     height: 12em;
 }
 
+#twentyfour{
+	width: auto;
+	border-radius: 0;
+}
+
+#twentyfour #queue, #twentyfour #stories, #twentyfour #music, #twentyfour #others, #twentyfour #ccs, #twentyfour #games, #twentyfour #movies, #twentyfour #shows{
+	width: auto;
+	display: block;
+	margin: 0;
+}
+
+#twentyfour #stories, #twentyfour #others, #twentyfour #music, #twentyfour #shows, #twentyfour #games{
+  float: none;
+}
+
 }
 
 @media only screen and (max-width: 430px) and (min-width: 0px) {

@@ -76,7 +76,7 @@
 
 				<div class="box">
 				<ul>
-					<li><i>Gloom Division</i> by IDKHOW</li>
+					<li><i><b>Gloom Division</b></i> by IDKHOW</li>
 			</ul>
 
 			</div>

@@ -108,7 +108,7 @@ h1{
 }
 
 h4{
-	color: color: var(--h1);;
+	color: var(--h1);
 	text-shadow: 0.03em 0.03em 0 #EACEC1;
 	font: bold 1.1em 'Rochester', cursive;
 }
@@ -196,7 +196,7 @@ h2{
 	margin: 0;
 }
 
-#twentyfour #stories, #twentyfour #others, #twentyfour #music, #twentyfour #shows{
+#twentyfour #stories, #twentyfour #others, #twentyfour #music, #twentyfour #shows, #twentyfour #games{
   float: none;
 }
 

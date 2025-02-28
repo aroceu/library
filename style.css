@@ -1,3 +1,7 @@
+*{
+	image-rendering: pixelated;
+}
+
 body{
             background: var(--background);
             font: normal 2.2em/140% 'Inconsolata', monospace, sans-serif;

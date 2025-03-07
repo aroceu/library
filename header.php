@@ -1,5 +1,5 @@
 <meta name="viewport" content="initial-scale=1.0">
-        <meta name="description" content="the media library of aroceu, who is not an internet personality (but is a fujoshi)"/>
+        <meta name="description" content="the media library of aroceu, who is an internet hobbyist (and fujoshi)"/>
     <link rel="shortcut icon" type="image/x-icon" href="hk.png" />
             <meta name="robots" content="noai, noimageai">
     

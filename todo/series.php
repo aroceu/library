@@ -25,10 +25,6 @@
             			<br /> Not Me
             			<br /><i>Thai BL</i></li>
 
-            			<li><img src="todo/series/whitecollar.jpg">
-            			<br />White Collar
-            			<br /><i>TV Series</i></li>
-
             			<li><img src="todo/series/dark.jpg">
             			<br />Dark
             			<br /><i>Netflix Series</i></li>
@@ -38,7 +34,6 @@
             			<li><img src="todo/series/brba.jpg">
             			<br />Breaking Bad
             			<br /><i>TV Series</i></li>
-
 
             			<li><img src="todo/series/clonewars.jpg">
             			<br />Star Wars: The Clone Wars

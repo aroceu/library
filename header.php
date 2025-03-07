@@ -20,8 +20,8 @@
     
     <div id="container">
             
-            <ul id="navigation"><li><a href="/library"><img src="img/shelf.gif" alt=""><br />library</a></li>
-            	<li><a href="/library/thelist"><img src="img/book.png" alt=""><br />the list</a></li>
-            	<li><a href="/library/favorites"><img src="img/heart.png" alt=""><br />favorites</a></li>
-            	<li><a href="/library/log"><img src="img/hk.gif" alt=""><br />log</a></li>
+            <ul id="navigation"><li><a href="../library"><img src="img/shelf.gif" alt=""><br />library</a></li>
+            	<li><a href="../library/thelist"><img src="img/book.png" alt=""><br />the list</a></li>
+            	<li><a href="../library/favorites"><img src="img/heart.png" alt=""><br />favorites</a></li>
+            	<li><a href="../library/log"><img src="img/hk.gif" alt=""><br />log</a></li>
             </ul>

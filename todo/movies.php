@@ -61,10 +61,6 @@
             			<br />Blade Runner
             			<br /><i>Ridley Scott</i></li>
 
-            			<li><img src="todo/movies/barbie.jpg">
-            			<br />Barbie
-            			<br /><i>Greta Gerwig</i></li>
-
             			<li><img src="todo/movies/bottoms.jpeg">
             			<br />Bottoms
             			<br /><i>Emma Seligman</i></li>
@@ -104,10 +100,6 @@
             			<li><img src="todo/movies/dps.jpg">
             			<br />Dead Poets Society
             			<br /><i>Peter Weir</i></li>
-
-            			<li><img src="todo/movies/dpwv.jpg">
-            			<br />Deadpool & Wolverine
-            			<br /><i>Shawn Levy</i></li>
 
             			<li><img src="todo/movies/eternalsunshine.jpg">
             			<br />Eternal Sunshine of the...

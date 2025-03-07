@@ -35,8 +35,9 @@
 				<div class="box">
 				<ul>
 				    
-				    <li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
-					<li>idk about books but like, all of them</li>
+				    <!--<li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
+					<li>idk about books but like, all of them <strike>it's been months since I made this library but it's still true</strike></li>-->
+					<li><i>Chromakopia</i> by Tyler the Creator</li>
 				</ul>
 
 			</div>
@@ -59,7 +60,7 @@
 					<li>Challengers (<i>rewatch with Sani</i>)</li>
 					<li>The Truman Show (<i>rewatch with L</i>)</li>
 					<li>Book of Life (<i>rewatch</i>)</li>
-					<li>White Collar</li>
+					<li>White Collar (season 1)</li>
 					<li>Wreck-It Ralph (<i>rewatch</i>)</li>
 				</ul>
 			</div>
@@ -70,13 +71,28 @@
 
 		<div id="music">
 
-			<h2>music <span class="desc">the one constant in my life (<a href="https://aroceu.com/music/2024">log</a>)</span></h2> 
+			<h2>music <span class="desc">the one constant in my life<!--(<a href="https://aroceu.com/music/2024">log</a>)--></span></h2> 
 
 			<div class="list">
 
 				<div class="box">
 				<ul>
 					<li><i><b>Gloom Division</b></i> by IDKHOW</li>
+					<li><i><b>Alligator Bites Never Heal</b></i> by Doechii</li>
+					<li>8bit/Pok&eacute;mon soundfont covers:
+						<ul>
+							<li><a href="https://www.youtube.com/watch?v=ypc6dL7uqkM">Taste by Sabrina Carpenter</a></li>
+							<li><a href="https://www.youtube.com/watch?v=I-A7CYrUkzI">Please Please Please by Sabrina Carpenter</a></li>
+							<li><a href="https://www.youtube.com/watch?v=OOiNsbUoUVs">Bed Chem by Sabrina Carpenter</li>
+							<li><a href="https://www.youtube.com/watch?v=j2Pv7Pm2uCw">360 by Charli xcx</a></li>
+							<li><a href="https://www.youtube.com/watch?v=HP2bngqWOcE">Denial Is A River by Doechii</a></li>
+							<li><a href="https://www.youtube.com/watch?v=BraIk9cFdbg">Red Wine Supernova by Chappell Roan</a></li>
+							<li><a href="https://www.youtube.com/watch?v=noryaCYw3EI">Good Luck Babe! by Chappell Roan</a></li>
+							<li><a href="https://www.youtube.com/watch?v=XFi_LwRb4wA">good 4 u by Olivia Rodrigo</a></li>
+							<li>Also <a href="https://www.youtube.com/watch?v=28PoycHXhZI">Accumula Town from Pokemon BW but the instruments are delayed</li>
+						</ul>
+					</li>
+					<li><a href="https://www.youtube.com/watch?v=liZm1im2erU">Fuckin' Problems</a> by A$AP Rocky, 2Chainz, Drake, and Kendrick Lamar</li>
 			</ul>
 
 			</div>

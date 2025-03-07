@@ -1,7 +1,7 @@
 <li><a onclick="javascript:ShowHide('ccs')" class="h3"><h3>Content Creators</h3></a>
             <div class="list" id="ccs" >
             	<img src="img/ccs.png" alt="">
-            	<ul class="titles"><li>Alpharad</li>
+            	<ul class="titles"><li>Alpharad <favorite></favorite></li>
             		<li>cjya</li>
             		<li>DUDE</li>
             		<li>Fir <favorite></favorite></li>

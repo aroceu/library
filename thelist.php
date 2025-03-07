@@ -49,7 +49,7 @@ animatedcollapse.init()
 
             	<p><i>Titles are listed in no particular order.</i></p>
 
-            	<h4><b>TOTAL:</b> 235</h4>
+            	<h4><b>TOTAL:</b> 21</h4>
 
             </div>
 
@@ -58,10 +58,10 @@ animatedcollapse.init()
             		<li><a href="#animanga" rel="toggle[animanga]" class="animanga"> animanga (24)</a></li>
             		<li><a href="#books" rel="toggle[books]" class="books"> books (83)</a></li>
             		<li><a href="#games" rel="toggle[games]" class="games"> games (11)</a></li>
-            		<li><a href="#movies" rel="toggle[movies]" class="movies"> movies (36)</a></li>
-            		<li><a href="#music" rel="toggle[music]" class="music"> music (16)</a></li>
+            		<li><a href="#movies" rel="toggle[movies]" class="movies"> movies (34)</a></li>
+            		<li><a href="#music" rel="toggle[music]" class="music"> music (15)</a></li>
             		<li><a href="#musicals" rel="toggle[musicals]" class="musicals"> musicals (6)</a></li>
-            		<li><a href="#series" rel="toggle[series]" class="series"> series (59)</a></li>
+            		<li><a href="#series" rel="toggle[series]" class="series"> series (58)</a></li>
             		</ul>
             	</div>
             	

@@ -67,9 +67,9 @@
             			<br />& Her Dead Petz
             			<br /><i>Miley Cyrus</i></li>
 
-            			<li><img src="todo/music/gloomdivisionidkhow.jpg">
-            			<br /> Gloom Division
-            			<br /><i>IDKHOWBUTTHEYFOUNDME</i></li>
+						<li><img src="todo/music/chromakopia.jpg">
+            			<br />Chromakopia
+            			<br /><i>Tyler the Creator</i></li>
 
             		</ul>
 

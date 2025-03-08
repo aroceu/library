@@ -7,8 +7,8 @@
         <title>aroceu's library (list)</title>
         
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://seas.ink/x/jquery-1.10.1.min.js"></script>
-<script type="text/javascript" src="https://seas.ink/x/animatedcollapse.js"></script>
+<script type="text/javascript" src="https://aroceu.com/assets/scripts/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="https://aroceu.com/assets/scripts/animatedcollapse.js"></script>
 
 <script type="text/javascript">
 

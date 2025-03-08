@@ -49,7 +49,7 @@ animatedcollapse.init()
 
             	<p><i>Titles are listed in no particular order.</i></p>
 
-            	<h4><b>TOTAL:</b> 21</h4>
+            	<h4><b>TOTAL:</b> 231</h4>
 
             </div>
 

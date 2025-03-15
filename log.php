@@ -37,7 +37,7 @@
 				    
 				    <!--<li><b><em><a href="https://www.youtube.com/watch?v=KhSyfKC06J4&list=PLYYyUhZKiEj6Jqqf16WDT_JnQbkC2cp-E">Kidnap</a></em></b>: the Series (Thai BL)</li>
 					<li>idk about books but like, all of them <strike>it's been months since I made this library but it's still true</strike></li>-->
-					<li><i>Chromakopia</i> by Tyler the Creator</li>
+					<li><b><em>Chromakopia</em></b> by Tyler the Creator</li>
 				</ul>
 
 			</div>
@@ -77,8 +77,8 @@
 
 				<div class="box">
 				<ul>
-					<li><i><b>Gloom Division</b></i> by IDKHOW</li>
-					<li><i><b>Alligator Bites Never Heal</b></i> by Doechii</li>
+					<li><b><em>Gloom Division</em></b> by IDKHOW</li>
+					<li><b><em>Alligator Bites Never Heal</em></b> by Doechii</li>
 					<li>8bit/Pok&eacute;mon soundfont covers:
 						<ul>
 							<li><a href="https://www.youtube.com/watch?v=ypc6dL7uqkM">Taste by Sabrina Carpenter</a></li>
@@ -93,6 +93,7 @@
 						</ul>
 					</li>
 					<li><a href="https://www.youtube.com/watch?v=liZm1im2erU">Fuckin' Problems</a> by A$AP Rocky, 2Chainz, Drake, and Kendrick Lamar</li>
+					<li><b><em>MAYHEM</em></b> by Lady Gaga</li>
 			</ul>
 
 			</div>
@@ -111,7 +112,16 @@
 
 				<ul>
 					<li>Global Pokedex Plus</li>
-
+					<li><a href="https://www.youtube.com/watch?v=OimBFcgHZlM">Why Wreck-It Ralph Is An Impeccably Perfect Movie</a> by Rockotar</li>
+          <li><a href="https://www.youtube.com/watch?v=YMUqTfZdB3g">Determining the Strongest Pokemon of All Time</a> by Alpharad</li>
+          <li><a href="https://www.youtube.com/watch?v=PpZTq5RWqYA">I'm High School Musical</a> by Danny Gonzalez</li>
+          <li><a href="https://www.youtube.com/watch?v=IRziqTkRH8c">I Forced 6 YouTubers to Complete My Pokemon Escape Room</a> by SmallAnt</li>
+          <li><a href="https://www.youtube.com/watch?v=lXPXWnpZGNs">Architecture Used To Matter in Pokemon</a> by OddJackalope</li>
+          <li><a href="https://www.youtube.com/watch?v=RJAcHoybuiA">The Art of Being A Successful Hater</a> by Anthony Aiken Jr.</li>
+		  <li>Mike's Mic: <ul>
+					<li><a href="https://www.youtube.com/watch?v=0PNg4KhmLCw">And for my next trick… a video about that magic movie you watched 12 years ago</a></li>
+					<li><a href="https://www.youtube.com/watch?v=43PXlV8NFiE">A very important video about a very important movie</a></li>
+				</ul></li>
 			</ul>
 
 		</div>
@@ -166,7 +176,6 @@
 				<div class="box">
 
 				<ul>
-					<li><a href="https://www.youtube.com/watch?v=4N6y6LEwsKc">The Artist is 
 					<li>Pokemon TCG (mobile game)</li>
 			    <li><a href="https://pokerogue.net">Pok&eacute;Rogue</a> (game)</li>
 				<li>Ring Fit Adventure (game)</li>
@@ -252,6 +261,18 @@
 				<ul>
 					<li><a href="https://www.youtube.com/watch?v=4N6y6LEwsKc">The Artist is Absent: Davey Wreden and The Beginner's Guide</a> by Innuendo Studios</li>
 					<li><a href="https://www.youtube.com/watch?v=DCRfK6Fs0DU">LOST: A Deep Dive Into the Controversial Ending</a> by Billiam</li>
+					<li>Mike's Mic:
+						<ul>
+							<li><a href="https://www.youtube.com/watch?v=tHeNSNSo9PA">Is Scooby Doo 2 the pinnacle of cinema? (Yes)</a></li>
+							<li><a href="https://www.youtube.com/watch?v=2kuT2l1ss5A">An appropriately unhinged recap of LOST (Season 2)</a></li>
+							<li><a href="https://www.youtube.com/watch?v=klYkrPJAjiA">THE MOST MOVIE EVER (Sucker Punch)</a></li>
+							<li><a href="https://www.youtube.com/watch?v=iipq9i8TEBM">Pitch Perfect: A 2012 Period Piece</a></li>
+							<li><a href="https://www.youtube.com/watch?v=pQms4VlRJC8">My favourite mafia movie </a></li>
+							<li><a href="https://www.youtube.com/watch?v=d3Tujupegp4">An appropriately unhinged recap of LOST (Season 1)</a></li>
+							<li><a href="https://www.youtube.com/watch?v=TsrCU1BUkTU">Scooby-Doo (2002) is even better than you remember </a></li>
+							<li><a href="https://www.youtube.com/watch?v=LtwXcOW6Ik8">Scream (1996): consider me SCRUMPT </a></li>
+						</ul>
+					</li>
 			</ul>
 
 		</div>
